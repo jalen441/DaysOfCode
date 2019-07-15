@@ -1,12 +1,6 @@
-# Days Of Code
+# Days Of Code C#
 
-14 code exercises solved in various languages, with unit tests.
-
-Breakdown by language:
-
-* C#: all solved.
-
-* JavaScript: 1 - 6 solved.
+14 code exercises solved in C#, with unit tests.
 
 Below are the directions and examples given for each exercise:
 
